@@ -51,6 +51,7 @@ const CurrencyConverter = () => {
   return (
     
    
+  
     <div className="converter-box">
        
   {/* From Amount and Currency */}
